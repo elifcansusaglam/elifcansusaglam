@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋 I'm Elif Cansu</h2>
-<h3 align="left">I am a passionate, responsible and highly motivated team player. <br>I also am hardworking and eager to learn.</h3>
+<h3 align="left">I am a passionate, responsible and highly motivated team player. <br>I am hardworking and eager to learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elifcansusaglam&label=Profile%20views&color=0e75b6&style=flat" alt="elifcansusaglam" /> </p>
 
