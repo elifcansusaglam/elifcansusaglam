@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/elif-cansu-saglam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif-cansu-saglam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/elifcansu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elifcansu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/elifcansusaglam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elifcansu" height="30" width="40" /></a>
 <a href="https://medium.com/@saglamelifcansu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="elifcansu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCf67ZWQPbZgDYEcBObnl3Sw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elifcansu" height="30" width="40" /></a>
 </p>
